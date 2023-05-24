@@ -1,0 +1,80 @@
+
+
+header{
+
+}
+.img-a {
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: -26px;
+    color: #058eae;
+    font-weight: 600;
+}
+.block-img{
+    border: 3px solid #ddd;
+}
+
+
+.btn {
+    padding: 5px 38px;
+    margin-top: 10px;
+    background-color: forestgreen;
+    color: ghostwhite;
+}
+.card-box{
+   border: 3px solid #ddd;
+}
+.card-headers{
+
+border: 2px solid #ddd;
+
+padding: 10px 0;
+
+text-align: center;
+
+font-size: 32px;
+
+font-weight: 600;
+
+background-color: aliceblue;
+}
+.card-list-form{
+    border: 2px solid #ddd;
+    width: 320px;
+    margin-left: 14px;
+    margin-top: 15px;
+    height: auto;
+}
+.ppp{
+    display: inline-block;
+}
+.card-pp{
+    max-width: 100%;
+}
+.card-p{
+
+text-align: center;
+
+border-bottom: 2px solid #ddd;
+}
+.card-p1 {
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    padding: 8px 0;
+}
+.card-p5 {
+    
+margin-bottom: -5px;
+    
+border-bottom: none;
+    
+text-align: center;
+    
+line-height: 33px;
+}
+.card-title{
+
+font-size: 24px;
+
+margin-left: 15px;
+}
